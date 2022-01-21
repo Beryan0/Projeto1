@@ -1,0 +1,5 @@
+C:\Users\Admin\.vscode\HelloWorld\bin\Release\net6.0\publish\HelloWorld.exe
+C:\Users\Admin\.vscode\HelloWorld\bin\Release\net6.0\publish\HelloWorld.dll
+C:\Users\Admin\.vscode\HelloWorld\bin\Release\net6.0\publish\HelloWorld.deps.json
+C:\Users\Admin\.vscode\HelloWorld\bin\Release\net6.0\publish\HelloWorld.runtimeconfig.json
+C:\Users\Admin\.vscode\HelloWorld\bin\Release\net6.0\publish\HelloWorld.pdb
