@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-namespace cavalo321
+namespace Projeto1
 {
     class Program
     {
